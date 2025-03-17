@@ -1,9 +1,9 @@
-title: Jekyll Play
-email: c2edevofficial@gmail.com
+title: Syangja Think Tank
+email: syangjathinktank4@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The minimal Jekyll base template with I18n support to quickly start with.
+  Website for Syangja Think Tank
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://syangjathinktank.com.np" # the base hostname & protocol for your site, e.g. http://example.com
 image_base_url: /assets/img
 
 google_analytics: # your google analytics id
